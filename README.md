@@ -7,6 +7,10 @@
 
 Commercial webpage for Horiseon Social Solution Services, Inc. It is the inital splash page and provides a succinct description of services offered. Links are currently non-functional and will be added later in development.
 
+<img src='./assets/images/img1.PNG' alt='Header and hero image of the website'/>
+<img src='./assets/images/img2.PNG' alt='body image of the website'/>
+<img src='./assets/images/img3.PNG' alt='body and footer image for the website'/>
+
 ## License
 
 MIT License
